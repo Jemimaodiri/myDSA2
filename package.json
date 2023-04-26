@@ -1,12 +1,20 @@
 {
   "name": "github",
   "version": "1.0.0",
-  "description": "",
+  "description": "my Data structure and algorithm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faithy34/DSA.git"
+  },
+  "bugs": {
+    "url": "https://github.com/faithy34/DSA/issues"
+  },
+  "homepage": "https://github.com/faithy34/DSA#readme"
 }
