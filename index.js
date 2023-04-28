@@ -37,7 +37,7 @@ class Linklist {
             this.tail.next=null
           }
           this.length--
-          return current
+          return currentcl
        }
     }
 }
